@@ -15,13 +15,87 @@ defaults:
     values:
       layout: "post"
 
-topics:
-  - name: CSS
+# topics:
+#   - name: CSS
+#     web_url: https://github.com/topics/css
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+
+#   - name: Web design
+
+#   - name: Sass
+#     web_url: https://github.com/topics/sass
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+featured_repos:
+  - url: https://github.com/amzn/emukit-playground
+    description: A web page explaining concepts of statistical emulation and making decisions under uncertainty in an interactive way.
+    language: JavaScript
+    stars: 9
+    forks: 1
+
+  - url: https://github.com/TheAdaptiveWeb/AdaptiveWeb-Core
+    description: Adaptive Web Accessibiltiy Toolkit - Core Platform
+    language: TypeScript
+    stars: 0
+    forks: 0
+
+  - url: https://github.com/AdamHirst/OxfordHack
+    description: OxfordHack 2017 - Chrome plugin adding automatic audio description to native web video.
+    language: JavaScript
+    stars: 3
+    forks: 0
+
+  - url: https://github.com/AdamHirst/GamesProgramming
+    description: University Games Programming Project
+    language: Java
+    stars: 3
+    forks: 0
+
+  - url: https://github.com/AdamHirst/Join4
+    description: Alpha-beta pruning minimax AI for Four in a Row. 2nd Year university assignment.
+    language: C#
+    stars: 0
+    forks: 0
+
+  - url: https://github.com/AdamHirst/StacsHack4
+    description: goHack - Hackathon flight finder
+    language: CSS
+    stars: 0
+    forks: 0
+
+hackathons:
+  - name: VHacks 2018
+    flair: 1st Place Winner
+    location: Vatican, Vatican City
     web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: assets/img/vhacks.png
 
-  - name: Web design
+  - name: GUTS 2018
+    flair: 1st Place Winner
+    location: Glasgow, Scotland
+    web_url: https://github.com/topics/css
+    image_url: assets/img/guts.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: RGUHack 2018
+    flair: 1st Place Winner
+    location: Aberdeen, Scotland
+    web_url: https://github.com/topics/css
+    image_url: assets/img/rguhack.png
+
+  - name: StacsHack 2018
+    flair: Sponsor Prize Winner
+    location: St Andrews, Scotland
+    web_url: https://github.com/topics/css
+    image_url: assets/img/stacshack.png
+
+  - name: HEX 2018
+    flair: Sponsor Prize Winner
+    location: Eindhoven, Netherlands
+    web_url: https://github.com/topics/css
+    image_url: assets/img/hex.png
+
+  - name: OxfordHack 2017
+    flair: Top 16
+    location: Oxford, England
+    web_url: https://github.com/topics/css
+    image_url: assets/img/oxfordhack.png
