@@ -66,36 +66,65 @@ featured_repos:
 hackathons:
   - name: VHacks 2018
     flair: 1st Place Winner
-    location: Vatican, Vatican City
-    web_url: https://github.com/topics/css
+    location: Vatican City
+    web_url: https://github.com/AdamHirst/VHacks2018
     image_url: assets/img/vhacks.png
 
   - name: GUTS 2018
     flair: 1st Place Winner
     location: Glasgow, Scotland
-    web_url: https://github.com/topics/css
+    web_url: https://github.com/GavinHenderson/GUTS2018
     image_url: assets/img/guts.png
 
   - name: RGUHack 2018
     flair: 1st Place Winner
     location: Aberdeen, Scotland
-    web_url: https://github.com/topics/css
+    web_url: https://github.com/AdamHirst/RGUHack
     image_url: assets/img/rguhack.png
 
   - name: StacsHack 2018
     flair: Sponsor Prize Winner
     location: St Andrews, Scotland
-    web_url: https://github.com/topics/css
+    web_url: https://github.com/AdamHirst/StacsHack4
     image_url: assets/img/stacshack.png
 
   - name: HEX 2018
     flair: Sponsor Prize Winner
     location: Eindhoven, Netherlands
-    web_url: https://github.com/topics/css
+    web_url: https://github.com/AdamHirst/HEX2018
     image_url: assets/img/hex.png
 
   - name: OxfordHack 2017
     flair: Top 16
     location: Oxford, England
-    web_url: https://github.com/topics/css
+    web_url: https://github.com/AdamHirst/OxfordHack
     image_url: assets/img/oxfordhack.png
+
+  - name: Junction 2018
+    location: Helsinki, Finland
+    web_url: \#
+    image_url: assets/img/junction.png
+
+  - name: HackCambridge 2018
+    location: Cambridge, England
+    web_url: \#
+    image_url: assets/img/hackcambridge.png
+
+  - name: Code for Good 2017
+    location: Glasgow, Scotland
+    web_url: https://github.com/glasgow2017/team-8
+
+  - name: CopenHacks 2017
+    location: Glasgow, Scotland
+    web_url: https://github.com/AdamHirst/RoboFoto
+    image_url: assets/img/copenhacks.png
+
+  - name: StacsHack 2017
+    location: St Andrews, Scotland
+    web_url: https://github.com/AdamHirst/neutrino
+    image_url: assets/img/stacshack3.png
+
+  - name: StirHack 2017
+    location: Stirling, Scotland
+    web_url: https://github.com/AdamHirst/StirHack
+    image_url: assets/img/stirhack.png
