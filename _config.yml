@@ -67,7 +67,7 @@ hackathons:
   - name: VHacks 2018
     flair: 1st Place Winner
     location: Vatican City
-    web_url: https://github.com/AdamHirst/VHacks2018
+    web_url: https://devpost.com/software/co-unity
     image_url: assets/img/vhacks.png
 
   - name: GUTS 2018
@@ -79,7 +79,7 @@ hackathons:
   - name: RGUHack 2018
     flair: 1st Place Winner
     location: Aberdeen, Scotland
-    web_url: https://github.com/AdamHirst/RGUHack
+    web_url: https://devpost.com/software/transcri-me-collaborative-dictation-platform
     image_url: assets/img/rguhack.png
 
   - name: StacsHack 2018
@@ -91,7 +91,7 @@ hackathons:
   - name: HEX 2018
     flair: Sponsor Prize Winner
     location: Eindhoven, Netherlands
-    web_url: https://github.com/AdamHirst/HEX2018
+    web_url: https://devpost.com/software/craft-for-a-cause
     image_url: assets/img/hex.png
 
   - name: OxfordHack 2017
@@ -126,5 +126,5 @@ hackathons:
 
   - name: StirHack 2017
     location: Stirling, Scotland
-    web_url: https://github.com/AdamHirst/StirHack
+    web_url: https://devpost.com/software/analyticat
     image_url: assets/img/stirhack.png
