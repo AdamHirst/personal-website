@@ -84,17 +84,24 @@ hackathons:
     web_url: https://devpost.com/software/transcri-me-collaborative-dictation-platform
     image_url: assets/img/rguhack.png
 
-  - name: StacsHack 2018
+  - name: StacsHack 2019
     flair: Sponsor Prize Winner
     location: St Andrews, Scotland
-    web_url: https://github.com/AdamHirst/StacsHack4
-    image_url: assets/img/stacshack.png
+    web_url: https://devpost.com/software/quickr-chat
+    image_url: assets/img/stacshack5.png
 
   - name: HEX 2018
     flair: Sponsor Prize Winner
     location: Eindhoven, Netherlands
     web_url: https://devpost.com/software/craft-for-a-cause
     image_url: assets/img/hex.png
+
+  - name: StacsHack 2018
+    flair: Sponsor Prize Winner
+    location: St Andrews, Scotland
+    web_url: https://github.com/AdamHirst/StacsHack4
+    image_url: assets/img/stacshack4.png
+
 
   - name: OxfordHack 2017
     flair: Top 16
