@@ -32,8 +32,8 @@ featured_repos:
   - url: https://github.com/amzn/emukit-playground
     description: A web page explaining concepts of statistical emulation and making decisions under uncertainty in an interactive way.
     language: JavaScript
-    stars: 9
-    forks: 1
+    stars: 11
+    forks: 2
 
   - url: https://github.com/TheAdaptiveWeb/AdaptiveWeb-Core
     description: Adaptive Web Accessibiltiy Toolkit - Core Platform
