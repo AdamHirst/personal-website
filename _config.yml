@@ -32,38 +32,38 @@ featured_repos:
   - url: https://github.com/amzn/emukit-playground
     description: A web page explaining concepts of statistical emulation and making decisions under uncertainty in an interactive way.
     language: JavaScript
-    stars: 11
-    forks: 2
+    stars: 16
+    forks: 6
 
   - url: https://github.com/TheAdaptiveWeb/AdaptiveWeb-Core
     description: Adaptive Web Accessibiltiy Toolkit - Core Platform
     language: TypeScript
     stars: 0
-    forks: 0
+    forks: 1
 
-  - url: https://github.com/AdamHirst/OxfordHack
+  - url: https://github.com/LeahHirst/OxfordHack
     description: OxfordHack 2017 - Chrome plugin adding automatic audio description to native web video.
     language: JavaScript
     stars: 3
     forks: 0
 
-  - url: https://github.com/AdamHirst/GamesProgramming
+  - url: https://github.com/LeahHirst/GamesProgramming
     description: University Games Programming Project
     language: Java
     stars: 3
     forks: 0
 
-  - url: https://github.com/AdamHirst/Join4
+  - url: https://github.com/LeahHirst/Join4
     description: Alpha-beta pruning minimax AI for Four in a Row. 2nd Year university assignment.
     language: C#
     stars: 0
     forks: 0
 
-  - url: https://github.com/AdamHirst/StacsHack4
+  - url: https://github.com/LeahHirst/StacsHack4
     description: goHack - Hackathon flight finder
     language: CSS
     stars: 0
-    forks: 0
+    forks: 1
 
 hackathons:
   - name: VHacks 2018
@@ -99,14 +99,14 @@ hackathons:
   - name: StacsHack 2018
     flair: Sponsor Prize Winner
     location: St Andrews, Scotland
-    web_url: https://github.com/AdamHirst/StacsHack4
+    web_url: https://github.com/LeahHirst/StacsHack4
     image_url: assets/img/stacshack4.png
 
 
   - name: OxfordHack 2017
     flair: Top 16
     location: Oxford, England
-    web_url: https://github.com/AdamHirst/OxfordHack
+    web_url: https://github.com/LeahHirst/OxfordHack
     image_url: assets/img/oxfordhack.png
 
   - name: Junction 2018
@@ -125,12 +125,12 @@ hackathons:
 
   - name: CopenHacks 2017
     location: Glasgow, Scotland
-    web_url: https://github.com/AdamHirst/RoboFoto
+    web_url: https://github.com/LeahHirst/RoboFoto
     image_url: assets/img/copenhacks.png
 
   - name: StacsHack 2017
     location: St Andrews, Scotland
-    web_url: https://github.com/AdamHirst/neutrino
+    web_url: https://github.com/LeahHirst/neutrino
     image_url: assets/img/stacshack3.png
 
   - name: StirHack 2017
